@@ -120,10 +120,3 @@ Files `circle.py` and `square.py` includes 6 simple test's.
 |  -1   |   0    |
 |  10   |   40   |
 |   1   |   4    |
-
-## History of commits
-
-**7aaf221** (HEAD -> main) updated a README.md file in /docs and added descriptions to functions
-**652295e** updated a README.md file in /docs
-**d078c8d** (origin/main, origin/HEAD) L-03: Docs added
-**8ba9aeb** L-03: Circle and square added
