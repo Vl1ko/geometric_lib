@@ -76,7 +76,7 @@ class SquarePerimeterTestCase(unittest.TestCase):
         self.assertEqual(perimeter_square(-1), 0)
 
     def test_natural_perimeter(self):
-        self.assertEqual(perimeter_square(10), 40)
+        self.assertEqual(perimeter_square(10), 4000)
         self.assertEqual(perimeter_square(1), 4)
 
 if __name__ == '__main__':

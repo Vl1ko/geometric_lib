@@ -22,7 +22,7 @@ class CircleAreaTestCase(unittest.TestCase):
         self.assertEqual(res, 0)
 
         res = area(-0)
-        self.assertEqual(res, 0)
+        self.assertEqual(res, 10)
 
     def test_negative_mul(self):
         res = area(-10)
